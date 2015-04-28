@@ -21,3 +21,4 @@ Marcin Kolesiński 180204 - GitLab <br/>
 Kamil Woźniak 180308 - launchpad <br/>
 Piotr Bednarek 180132 - Redmine <br/>
 Jakub Michalak 180244 - Kanbanery <br/>
+Kamil Milczarek 180246 - Assembla <br/>
